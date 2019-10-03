@@ -2,6 +2,8 @@
 
 Nodejs tutorial app
 
+to install library npm install
+
 Run app using "node app.js"
 
 App will run on port 3000
